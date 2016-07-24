@@ -1,0 +1,6 @@
+c:\users\rakshit\documents\visual studio 2015\Projects\CSharpAssignments\CaseStudy\bin\Debug\CaseStudy.exe.config
+c:\users\rakshit\documents\visual studio 2015\Projects\CSharpAssignments\CaseStudy\bin\Debug\CaseStudy.exe
+c:\users\rakshit\documents\visual studio 2015\Projects\CSharpAssignments\CaseStudy\bin\Debug\CaseStudy.pdb
+c:\users\rakshit\documents\visual studio 2015\Projects\CSharpAssignments\CaseStudy\obj\Debug\CaseStudy.csprojResolveAssemblyReference.cache
+c:\users\rakshit\documents\visual studio 2015\Projects\CSharpAssignments\CaseStudy\obj\Debug\CaseStudy.exe
+c:\users\rakshit\documents\visual studio 2015\Projects\CSharpAssignments\CaseStudy\obj\Debug\CaseStudy.pdb
